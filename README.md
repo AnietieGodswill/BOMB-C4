@@ -6,7 +6,7 @@
 * FAST AND EASY TO USE
 
 ## RECOMMENDED 📒
-Don't spam mail more than 50 per time 
+Don't send mail more than 50 per time 
 
 ## Contact Me ☎
 
