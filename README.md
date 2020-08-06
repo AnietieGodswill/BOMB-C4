@@ -10,8 +10,6 @@ Don't send mail more than 50 per time
 
 ## Contact Me ☎
 
-#### Mail: dx4iot@gmail.com
-
 #### Instagram: https://www.instagram.com/dx4iot/
 
 #### LinkedIn: https://www.linkedin.com/in/dx4iot
