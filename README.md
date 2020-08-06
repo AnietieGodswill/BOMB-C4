@@ -1,4 +1,4 @@
-<p align="center"><img src="logo/logo.png" width="400" height="400" alt="some_text"></p>
+<p align="center"><img src="logo/logo.png" width="400" height="400" alt="logo"></p>
 <p align="center"><b>BOMB-C4 {EMAIL BOMBER}</b></p>
 
 # BOMB-C4 💣
