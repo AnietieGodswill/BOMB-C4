@@ -2,7 +2,7 @@
 <p align="center"><b>BOMB-C4 {EMAIL BOMBER}</b></p>
 
 # BOMB-C4 💣
-* Free EMAIL BOMBER 
+* FREE EMAIL BOMBER 
 * FAST AND EASY TO USE
 
 ## RECOMMENDED 📒
