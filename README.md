@@ -5,10 +5,8 @@
 * FREE EMAIL BOMBER 
 * FAST AND EASY TO USE
 
-## RECOMMENDED 📒
-Don't send mail more than 100 in a single use
-
 ## Contact Me ☎
+#### Gmail: dx4iot@gmail.com
 
 #### Instagram: https://www.instagram.com/dx4iot/
 
